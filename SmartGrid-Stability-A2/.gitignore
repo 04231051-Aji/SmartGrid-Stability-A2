@@ -1,1 +1,20 @@
-__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.env\n.ipynb_checkpoints/\n.streamlit/secrets.toml\n
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Rahasia / token (jangan pernah di-commit)
+.env
+.streamlit/secrets.toml
+
+# Notebook & editor
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
