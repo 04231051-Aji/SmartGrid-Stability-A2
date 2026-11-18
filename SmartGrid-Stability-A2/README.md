@@ -86,3 +86,4 @@ Halaman: Project Overview, Dataset Explorer, Exploratory Data Analysis, Baseline
 | Nama | NIM | Peran |
 |---|---|---|
 | Dwi Vera Anggreani | 04231026 |  |
+| Muhammad Aji Kurniawan | 0423151 |  |
