@@ -85,5 +85,7 @@ Halaman: Project Overview, Dataset Explorer, Exploratory Data Analysis, Baseline
 ## Anggota & Pembagian Peran
 | Nama | NIM | Peran |
 |---|---|---|
+| Aditya Raharja | 04231003 |
+| Dirgantara Satria Putra | 04231024 | 
 | Dwi Vera Anggreani | 04231026 |  |
 | Muhammad Aji Kurniawan | 04231051 |  |
